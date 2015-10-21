@@ -1,4 +1,4 @@
-# karma-webdriverio-launcher
+# karma-webdriverio-launcher [forked from tatablack/karma-webdriverjs-launcher]
 
 A plugin for Karma. Launcher for Remote WebDriver instances using WebDriverIO.
 
@@ -12,7 +12,7 @@ Not published on the NPM registry yet. For the time being, you'll need to add it
 
 ```
   "devDependencies": {
-    "karma-webdriverio-launcher": "git://github.com/tatablack/karma-webdriverjs-launcher.git"
+    "karma-webdriverio-launcher": "git://github.com/ProfessorEugene/karma-webdriverjs-launcher.git#0.1.0"
   }
 ```
 
