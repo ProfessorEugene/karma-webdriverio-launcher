@@ -12,7 +12,7 @@ Not published on the NPM registry yet. For the time being, you'll need to add it
 
 ```
   "devDependencies": {
-    "karma-webdriverio-launcher": "git://github.com/ProfessorEugene/karma-webdriverjs-launcher.git#0.1.0"
+    "karma-webdriverio-launcher": "git://github.com/ProfessorEugene/karma-webdriverjs-launcher.git#0.1.1"
   }
 ```
 

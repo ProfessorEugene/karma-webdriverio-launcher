@@ -1,6 +1,6 @@
 {
   "name": "karma-webdriverio-launcher",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma plugin. Launcher for Remote WebDriver instances using WebDriverJS.",
   "main": "index.js",
   "keywords": [
@@ -15,11 +15,11 @@
     "email": "angelo.tata@gmail.com"
   },
   "dependencies": {
-    "webdriverio": "^2.3.0",
+    "webdriverio": "^3.2.5",
     "deepmerge": "^0.2.7"
   },
   "peerDependencies": {
-    "karma": ">=0.12"
+    "karma": "~0.13.0"
   },
   "license": "MIT"
 }
